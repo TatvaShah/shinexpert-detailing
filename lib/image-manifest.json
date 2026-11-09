@@ -1,0 +1,408 @@
+{
+ "/images/logo.jpg": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.e221874b3f",
+  "stamp": "e221874b3f"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.12b57c83e1",
+  "stamp": "12b57c83e1"
+ },
+ "/images/post-1.jpg": {
+  "w": 480,
+  "h": 853,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/post-1.89ec12e125",
+  "stamp": "89ec12e125"
+ },
+ "/images/post-2.jpg": {
+  "w": 480,
+  "h": 852,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/post-2.176a02feaf",
+  "stamp": "176a02feaf"
+ },
+ "/images/post-5.jpg": {
+  "w": 480,
+  "h": 853,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/post-5.e1868eb447",
+  "stamp": "e1868eb447"
+ },
+ "/images/post-7.jpg": {
+  "w": 1254,
+  "h": 1254,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1254
+  ],
+  "base": "/images/_opt/post-7.cdce78ca3c",
+  "stamp": "cdce78ca3c"
+ },
+ "/images/post-8.jpg": {
+  "w": 480,
+  "h": 853,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/post-8.5462e4a8b8",
+  "stamp": "5462e4a8b8"
+ },
+ "/images/post-9.jpg": {
+  "w": 480,
+  "h": 853,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/post-9.73ed2a4d4d",
+  "stamp": "73ed2a4d4d"
+ },
+ "/sample/ballerina.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/ballerina.d71fc86060",
+  "stamp": "d71fc86060"
+ },
+ "/sample/bibble.webp": {
+  "w": 1100,
+  "h": 1100,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1100
+  ],
+  "base": "/images/_opt/sample/bibble.4cc1ab3b3b",
+  "stamp": "4cc1ab3b3b"
+ },
+ "/sample/bride.webp": {
+  "w": 1100,
+  "h": 1100,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1100
+  ],
+  "base": "/images/_opt/sample/bride.54113a7e80",
+  "stamp": "54113a7e80"
+ },
+ "/sample/cherry.webp": {
+  "w": 1400,
+  "h": 1750,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/sample/cherry.a4b530d8c7",
+  "stamp": "a4b530d8c7"
+ },
+ "/sample/elmo.webp": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/elmo.bbf6cef986",
+  "stamp": "bbf6cef986"
+ },
+ "/sample/lily.webp": {
+  "w": 1400,
+  "h": 1750,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/sample/lily.7b265274f7",
+  "stamp": "7b265274f7"
+ },
+ "/sample/logo.png": {
+  "w": 256,
+  "h": 256,
+  "widths": [
+   96,
+   128,
+   256
+  ],
+  "base": "/images/_opt/sample/logo.adb5bdd1bd",
+  "stamp": "adb5bdd1bd"
+ },
+ "/sample/nineteen.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/nineteen.a5adf21b6c",
+  "stamp": "a5adf21b6c"
+ },
+ "/sample/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/sample/og-photo.cd927a3cf5",
+  "stamp": "cd927a3cf5"
+ },
+ "/sample/poster-florals.webp": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/sample/poster-florals.8e8697e1ae",
+  "stamp": "8e8697e1ae"
+ },
+ "/sample/poster-green.webp": {
+  "w": 900,
+  "h": 1125,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/sample/poster-green.323a4e6fca",
+  "stamp": "323a4e6fca"
+ },
+ "/sample/raspberry.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/raspberry.4982605417",
+  "stamp": "4982605417"
+ },
+ "/sample/reveal.webp": {
+  "w": 1200,
+  "h": 1500,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/reveal.78abaefb4c",
+  "stamp": "78abaefb4c"
+ },
+ "/sample/roses.webp": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/roses.59cb7f0be3",
+  "stamp": "59cb7f0be3"
+ },
+ "/sample/spongebob.webp": {
+  "w": 1100,
+  "h": 1375,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1100
+  ],
+  "base": "/images/_opt/sample/spongebob.78bf377c34",
+  "stamp": "78bf377c34"
+ },
+ "/sample/thirty.webp": {
+  "w": 1200,
+  "h": 1199,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/thirty.fc3d8d6285",
+  "stamp": "fc3d8d6285"
+ },
+ "/sample/vintage.webp": {
+  "w": 1200,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/sample/vintage.c7f6fd90fb",
+  "stamp": "c7f6fd90fb"
+ },
+ "/sample/wedding.webp": {
+  "w": 1600,
+  "h": 2000,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1600
+  ],
+  "base": "/images/_opt/sample/wedding.a11c196a92",
+  "stamp": "a11c196a92"
+ }
+}
